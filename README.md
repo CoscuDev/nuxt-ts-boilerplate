@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # typescript
 
 ## Build Setup
@@ -67,3 +68,6 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# nuxt-ts-boilerplate
+>>>>>>> 131ac7b8a733f196dbcab01b93c3e6af546e00a6
